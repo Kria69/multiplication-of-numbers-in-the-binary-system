@@ -1,0 +1,14 @@
+/Users/nikitakornusin/Desktop/Универ/ЭВМ/Практика/C#/bin/Debug/net8.0/C#
+/Users/nikitakornusin/Desktop/Универ/ЭВМ/Практика/C#/bin/Debug/net8.0/C#.deps.json
+/Users/nikitakornusin/Desktop/Универ/ЭВМ/Практика/C#/bin/Debug/net8.0/C#.runtimeconfig.json
+/Users/nikitakornusin/Desktop/Универ/ЭВМ/Практика/C#/bin/Debug/net8.0/C#.dll
+/Users/nikitakornusin/Desktop/Универ/ЭВМ/Практика/C#/bin/Debug/net8.0/C#.pdb
+/Users/nikitakornusin/Desktop/Универ/ЭВМ/Практика/C#/obj/Debug/net8.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitakornusin/Desktop/Универ/ЭВМ/Практика/C#/obj/Debug/net8.0/C#.AssemblyInfoInputs.cache
+/Users/nikitakornusin/Desktop/Универ/ЭВМ/Практика/C#/obj/Debug/net8.0/C#.AssemblyInfo.cs
+/Users/nikitakornusin/Desktop/Универ/ЭВМ/Практика/C#/obj/Debug/net8.0/C#.csproj.CoreCompileInputs.cache
+/Users/nikitakornusin/Desktop/Универ/ЭВМ/Практика/C#/obj/Debug/net8.0/C#.dll
+/Users/nikitakornusin/Desktop/Универ/ЭВМ/Практика/C#/obj/Debug/net8.0/refint/C#.dll
+/Users/nikitakornusin/Desktop/Универ/ЭВМ/Практика/C#/obj/Debug/net8.0/C#.pdb
+/Users/nikitakornusin/Desktop/Универ/ЭВМ/Практика/C#/obj/Debug/net8.0/C#.genruntimeconfig.cache
+/Users/nikitakornusin/Desktop/Универ/ЭВМ/Практика/C#/obj/Debug/net8.0/ref/C#.dll
